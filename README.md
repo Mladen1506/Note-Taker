@@ -7,9 +7,9 @@ This application uses an express backend and saves and retrieves note data from 
 ## Table Of Contents
 
   * [Deployment](#deployment)
-  * [Built With](#builthwith)
+  * [Built With](#builtwith)
   * [License](#license)
-  * [Acknowledgements](#acknowledgemets)
+  * [Acknowledgements](#acknowledgements)
   
 ## Deployement
 
