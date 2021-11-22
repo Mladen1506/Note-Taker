@@ -13,7 +13,7 @@ This application uses an express backend and saves and retrieves note data from 
   
 ## Deployement
 
-Link: 
+Link: https://github.com/Mladen1506/Note-Taker
 
 <img width="1440" alt="Screen Shot 2021-11-21 at 8 23 54 PM" src="https://user-images.githubusercontent.com/89114955/142787961-fa776c72-9efc-484b-b2c1-8d4fceb581d4.png">
 
