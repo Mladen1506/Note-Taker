@@ -7,11 +7,11 @@ This application uses an express backend and saves and retrieves note data from 
 ## Table Of Contents
 
   * [Deployment](#deployment)
-  * [Built With](#builtwith)
+  * [Built With](#built-with)
   * [License](#license)
   * [Acknowledgements](#acknowledgements)
   
-## Deployement
+## Deployment
 
 Link: https://github.com/Mladen1506/Note-Taker
 
